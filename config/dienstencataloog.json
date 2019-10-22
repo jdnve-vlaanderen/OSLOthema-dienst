@@ -1,0 +1,17 @@
+[
+  {
+    "name": "dienstencataloog",
+    "type": "ap",
+    "eap": "OSLO-Dienstencataloog-AP.eap",
+    "diagram": "OSLO-Dienstencataloog",
+    "template": "dienstencataloog-ap.j2",
+    "title": "Dienstencataloog",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "TBD",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Dienst",
+    "site": "site-skeleton/dienstencataloog",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaarden/applicatieprofiel-dienstencataloog/applicatieprofiel-dienstencataloog.html"
+  }
+]

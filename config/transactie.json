@@ -1,0 +1,17 @@
+[
+  {
+    "name": "transactie",
+    "type": "voc",
+    "eap": "OSLO-Transactie-VOC.eap",
+    "diagram": "OSLO-Transactie",
+    "template": "dienst-transactie-voc.j2",
+    "title": "Transactie",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
+    "publication-date": "2019-02-07",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Transactie",
+    "site": "site-skeleton/transactie",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/vocabularium-transactie/vocabularium-transactie.html"
+  }
+]
