@@ -5,6 +5,7 @@
   "publicatiedatum": "2019-02-07",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
+  "description_file" : "ap-dienst-transactiemodel.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Dienst Transactiemodel",
