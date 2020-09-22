@@ -1,11 +1,12 @@
 {
   "naam": "Applicatieprofiel Dienst Transactiemodel",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/dienst-transactiemodel/ontwerpdocument/2019-02-07/all-dienst-transactiemodel.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
   "publicatiedatum": "2019-02-07",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "ap-dienst-transactiemodel.md",
+  "beschrijving" : "ap-dienst-transactiemodel.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Dienst Transactiemodel",
