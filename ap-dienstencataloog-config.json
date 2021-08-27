@@ -1,12 +1,12 @@
 {
   "naam": "Applicatieprofiel Dienstencataloog",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/dienstencataloog/ontwerpdocument/niet-bepaald/all-dienstencataloog.jsonld",
-  "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
-  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/dienstencataloog/ontwerpdocument/niet-bepaald/all-dienstencataloog.jsonld",
+  "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
   "publicatiedatum": "TBD",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Applicatieprofiel",
-  "beschrijving" : "ap-dienstencataloog.md",
+  "beschrijving": "ap-dienstencataloog.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Dienstencataloog",
