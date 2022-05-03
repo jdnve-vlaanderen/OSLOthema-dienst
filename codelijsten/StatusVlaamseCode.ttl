@@ -224,7 +224,7 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
 
-<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Uitgevoerd>
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Gepland>
    a skos:Concept ;
    skos:prefLabel "Gepland"@nl ;
    skos:definition "Informatie over een dossier vooraleer er een beslissing is genomen. Omdat de verwerking van het dossier dan nog niet echt is gestart, kunnen geen van de bestaande codes gebruikt worden. "@nl ;
@@ -232,7 +232,7 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
 
-<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Uitgevoerd>
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/VoorlopigVastgesteld>
    a skos:Concept ;
    skos:prefLabel "Voorlopig vastgesteld"@nl ;
    skos:definition "Een voorlopige vaststelling van een plan (zoals bijv. een ruimtelijk uitvoeringsplan)."@nl ;
@@ -240,7 +240,7 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
 
-<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Uitgevoerd>
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/DefinitiefVastgesteld>
    a skos:Concept ;
    skos:prefLabel "Definitief vastgesteld"@nl ;
    skos:definition "Een definitieve vaststelling van een plan (zoals bijv. een ruimtelijk uitvoeringsplan)."@nl ;
@@ -248,7 +248,7 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
 
-<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Uitgevoerd>
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/InOpenbaarOnderzoek>
    a skos:Concept ;
    skos:prefLabel "In openbaar onderzoek"@nl ;
    skos:definition "Een openbaar onderzoek als standaard voor openbare procedures (zoals bijv. opmaak ruimtelijke uitvoeringsplan, vaststelling rooilijn, …)."@nl ;
@@ -256,7 +256,7 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
 
-<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Uitgevoerd>
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/GerechtelijkIngeleid>
    a skos:Concept ;
    skos:prefLabel "Gerechtelijk ingeleid"@nl ;
    skos:definition "De behandelende overheid heeft de nodige acties in de verwerking van het dossier uitgevoerd."@nl ;
@@ -264,7 +264,7 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
 
-<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Uitgevoerd>
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Aktename>
    a skos:Concept ;
    skos:prefLabel "Aktename"@nl ;
    skos:definition "Een dossier waarvoor geen beslissing nodig is, een melding van de betrokken partij volstaat. Het dossier wordt afgesloten en de betrokken overheid bevestigt akte te nemen van de melding."@nl ;
