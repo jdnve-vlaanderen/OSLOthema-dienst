@@ -2,7 +2,8 @@ version: 2
 jobs:
   extract-codelists:
     docker:
-      - image: bertvannuffelen/codelist-aggregator:1.1.0
+      #      - image: bertvannuffelen/codelist-aggregator:1.1.0
+      - image: cimg/node:18.19
     steps:
       - checkout
       - run: mkdir -p workspace
