@@ -8,6 +8,22 @@
    skos:definition "Informatie over de status van het dossier. De statusinformatie bevat een op Vlaams niveau gestandaardiseerde status code."@nl ;
    skos:prefLabel "Status Vlaamse Code"@nl .
 
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Afgehandeld>
+   a skos:Concept ;
+   skos:prefLabel "Afgehandeld"@nl ;
+   skos:definition "De melding is afgerond"@nl ;
+   skos:notation "Afgehandeld"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
+
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Overgedragen>
+   a skos:Concept ;
+   skos:prefLabel "Overgedragen"@nl ;
+   skos:definition "Het dossier is overgedragen aan een andere instantie."@nl ;
+   skos:notation "Overgedragen"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
+
 <https://data.vlaanderen.be/id/concept/StatusVlaamseCode/InVerwerking>
    a skos:Concept ;
    skos:prefLabel "In verwerking"@nl ;
