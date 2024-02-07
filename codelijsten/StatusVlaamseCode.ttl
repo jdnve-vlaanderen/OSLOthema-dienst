@@ -288,3 +288,18 @@
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
 
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Overgedragen>
+   a skos:Concept ;
+   skos:prefLabel "Overgedragen"@nl ;
+   skos:definition "De behandelende overheid heeft het dossier overgeheveld naar een andere (externe) organisatie."@nl ;
+   skos:notation "Overgedragen"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
+
+<https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Afgehandeld>
+   a skos:Concept ;
+   skos:prefLabel "Afgehandeld"@nl ;
+   skos:definition "De behandelende overheid heeft dossier afgehandeld, zonder specifieke acties uitgevoerd te hebben."@nl ;
+   skos:notation "Afgehandeld"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
