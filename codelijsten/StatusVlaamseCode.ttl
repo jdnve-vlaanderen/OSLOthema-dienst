@@ -303,3 +303,11 @@
    skos:notation "Afgehandeld"@nl ;
    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
    skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
+
+   <https://data.vlaanderen.be/id/concept/StatusVlaamseCode/Verworpen>
+   a skos:Concept ;
+   skos:prefLabel "Verworpen"@nl ;
+   skos:definition "Een inhoudelijke afwijzing van een ontvankelijk dossierstuk."@nl ;
+   skos:notation "Verworpen"@nl ;
+   skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> ;
+   skos:inScheme <https://data.vlaanderen.be/id/conceptscheme/StatusVlaamseCode> .
